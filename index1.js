@@ -1,3 +1,4 @@
+alert("Guide to this website: after you press ok in this dialogue, please press refresh to see what happen!");
 // Generate two random numbers
 var randomNumber1 = Math.floor(Math.random() * 6) + 1;
 var randomNumber2 = Math.floor(Math.random() * 6) + 1;
